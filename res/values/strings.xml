@@ -1,0 +1,62 @@
+<resources>
+    <!--    notification string-->
+    <string name="channel_name">callsecurity214</string>
+    <string name="channel_description">forcallsecurity</string>
+    <!--    notification string-->
+    <string name="app_name">callSecurity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="speech_prompt">Say something&#8230;</string>
+    <string name="speech_not_supported">Sorry! Your device doesn\'t support speech input</string>
+    <string name="privacy_feedback">Privacy</string>
+    <string name="feedback">this is feedback page</string>
+    <string name="device_description">this is call recorder</string>
+    <string name="device_admin_label">recorder</string>
+    <string name="stop">Stop</string>
+    <string name="application_in_ruuning_process">application in ruuning process</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!--    help-->
+    <string name="Question1">how to use this application.</string>
+    <string name="Ans1">this is very easy to use this application.</string>
+    <string name="one">    1. open application</string>
+    <string name="two">    2. click start button to start application.</string>
+    <string name="three">      3. to stop application click on stop button.</string>
+    <string name="privacy">Privacy is the ability of an individual or group to seclude themselves
+        or information about themselves, and thereby express themselves selectively.
+
+        When something is private to a person, it usually means that something is inherently
+        special or sensitive to them. The domain of privacy partially overlaps with security,
+        which can include the concepts of appropriate use and protection of information.
+        Privacy may also take the form of bodily integrity. The right not to be subjected
+        to unsanctioned invasions of privacy by the government, corporations, or individuals
+        is part of many countries\' privacy laws, and in some cases, constitutions.
+        In the business world, a person may volunteer personal details,
+        including for advertising, in order to receive some sort of benefit.
+        Public figures may be subject to rules on the public interest.
+        Personal information which is voluntarily shared but subsequently stolen or misused
+        can lead to identity theft.The concept of universal individual privacy is a modern concept primarily
+        associated with Western culture, British and North American in particular,
+        and remained virtually unknown in some cultures until recent times.
+        Most cultures, however, recognize the ability of individuals to withhold
+        certain parts of their personal information from wider society, such as
+        closing the door to one\'s home.</string>
+    <string name="normal_data">Don\'t worry this is normal call.</string>
+    <string name="fraud_data">this is fraud call please be careful.</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>

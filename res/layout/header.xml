@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@color/cardview_dark_background"
+    android:gravity="bottom"
+    android:padding="20dp"
+    >
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="50dp"
+        android:src="@drawable/insurance"></ImageView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="cursive"
+        android:text="Call Security"
+        android:textStyle="bold"
+        android:layout_marginLeft="50dp"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+
+        />
+
+</LinearLayout>

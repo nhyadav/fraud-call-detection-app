@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:icon="@drawable/insurance"
+    >
+
+    <PreferenceCategory
+
+        android:title="Language">
+        <ListPreference
+            android:dialogTitle="select your language."
+            android:icon="@drawable/language"
+            android:title="Language"
+            android:summary="To select language tab here."
+            android:defaultValue="false"
+            android:key="chooselanguage"
+            android:entries="@array/language"
+            android:entryValues="@array/language_value"
+            >
+
+        </ListPreference>
+
+    </PreferenceCategory>
+
+
+
+    <PreferenceCategory
+        android:title="Permission">
+        <EditTextPreference
+            android:key="perm"
+            android:title="check your required permission"
+
+    >
+
+        </EditTextPreference>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="History">
+        <EditTextPreference
+            android:key="Hist"
+            android:title="check your history"
+
+            >
+
+        </EditTextPreference>
+    </PreferenceCategory>
+</PreferenceScreen>
