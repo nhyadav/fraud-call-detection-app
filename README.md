@@ -70,6 +70,16 @@ name\Scripts\activate.bat
 pip install sklearn
 pip install pandas,numpy,matplotlib
 ```
+- download nltk
+```bash
+pip install nltk
+```
+```bash
+#open python shell on command prompt and run below code.
+import nltk
+print(nltk.download())
+```
+After running above code a pop-up window will be open for download nltk, click on **Download**
 
 ## References
 - [Article](https://cybersecurity.springeropen.com/articles/10.1186/s42400-018-0008-5)
