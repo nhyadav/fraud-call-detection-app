@@ -36,8 +36,10 @@ or normal call.
 
   
 ## Screenshots
-
+![App Screenshot](fraud_ss/start.png)
 ![App Screenshot](fraud_ss/nav.png)
+![App Screenshot](fraud_ss/setting.png)
+![App Screenshot](fraud_ss/stop.png)
 
   
 ## Installation
