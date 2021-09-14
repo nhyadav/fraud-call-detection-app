@@ -86,7 +86,7 @@ After running above code a pop-up window will be open for download nltk, click o
 - [Speech Recognition](https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/)
 - [Model](https://www.youtube.com/watch?v=K1iImrm509A)
 - [Record Call](https://stackoverflow.com/questions/18887636/how-to-record-phone-calls-in-android)
-- [Androi Notification](https://developer.android.com/trianing/notify-user/build-notification)
+- [Android Notification](https://developer.android.com/trianing/notify-user/build-notification)
     
 
   
